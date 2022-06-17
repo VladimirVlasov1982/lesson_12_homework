@@ -1,2 +1,5 @@
 .idea
 /venv/
+__pycache__
+loader/__pycache__
+main/__pycache__
